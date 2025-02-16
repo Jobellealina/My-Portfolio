@@ -82,8 +82,9 @@ header img {
     transform: translateY(-10px); 
 }
 
-button a { 
+button { 
     border-radius: 10px;
+    background-color: aliceblue;
     color: blue;
     font-family: monospace;
     text-decoration: none;

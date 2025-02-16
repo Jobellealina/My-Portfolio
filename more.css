@@ -63,7 +63,7 @@ header img {
 
 .description p {
     text-align: center;
-    font-family: cursive;
+    font-family:serif;
     
 }
 
@@ -74,15 +74,15 @@ header img {
 }
 
 .gallery-item img {
-    text-align: center; /* Center the text above the images */
+    text-align: center; 
     width: 180px;
     height: 170px;
 }
 
 .country-name {
-    font-weight: bold; /* Make the country name bold */
-    margin: 5px 0; /* Add some space above and below the country name */
-    color: #333; /* Change the color of the country name */
+    font-weight: bold; 
+    margin: 5px 0; 
+    color: #333; 
 }
 
 .hobby-list {
