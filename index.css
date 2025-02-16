@@ -1,8 +1,12 @@
 body {
-        font-family:monospace;
-        margin: 0;
-        padding: 0;
-        background-color: #eddcd9;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #eddcd9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .container {
