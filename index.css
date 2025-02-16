@@ -83,11 +83,13 @@ header img {
 }
 
 a {
-    background-color: gray;
+    background-color: rgb(231, 230, 230);
     border-radius: 20px;
     color: black;
     font-family: monospace;
     text-decoration: none;
+    height: 40px;
+    width: 100px;
 }
 
 footer {
