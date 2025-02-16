@@ -82,7 +82,7 @@ header img {
     transform: translateY(-10px); 
 }
 
-a {
+button a { 
     background-color: rgb(241, 194, 234);
     color: blue;
     font-family: monospace;
