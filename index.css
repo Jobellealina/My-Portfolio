@@ -86,10 +86,9 @@ button {
     border-radius: 10px;
     background-color: aliceblue;
     color: blue;
-    font-family: monospace;
-   
-    height: 60px;
-    width: 300px;
+    font-family: monospace;  
+    height: 40px;
+    width: 1500px;
     font-size: 20px;
 }
 
