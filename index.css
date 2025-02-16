@@ -83,7 +83,7 @@ header img {
 }
 
 button a { 
-    background-color: rgb(241, 194, 234);
+    border-radius: 10px;
     color: blue;
     font-family: monospace;
     text-decoration: none;
