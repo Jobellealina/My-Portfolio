@@ -111,7 +111,7 @@ button a {
 
 .glow-on-hover:before {
     content: '';
-    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #7a00ff, #ff00c8);
     position: absolute;
     top: -2px;
     left:-2px;
@@ -144,7 +144,7 @@ button a {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgb(245, 165, 214);
+    background: rgb(238, 205, 225);
     left: 0;
     top: 0;
     border-radius: 10px;
